@@ -1,0 +1,902 @@
+fileFormatVersion: 2
+guid: 2bbe6c7e5bd2bf5449d3b21101232fa8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4658878610652237141
+    second: scroll_and_others_0
+  - first:
+      213: 641155322416885955
+    second: scroll_and_others_1
+  - first:
+      213: -7585276159536661269
+    second: scroll_and_others_2
+  - first:
+      213: 5264975437272128856
+    second: scroll_and_others_3
+  - first:
+      213: -5764096943915304579
+    second: scroll_and_others_4
+  - first:
+      213: 5219273687999110718
+    second: scroll_and_others_5
+  - first:
+      213: -8362087257599285114
+    second: scroll_and_others_6
+  - first:
+      213: 717632080543834137
+    second: scroll_and_others_7
+  - first:
+      213: -6067552407916192568
+    second: scroll_and_others_8
+  - first:
+      213: 1156221073810866098
+    second: scroll_and_others_9
+  - first:
+      213: 7898789080582808422
+    second: scroll_and_others_10
+  - first:
+      213: -8495304991439857779
+    second: scroll_and_others_11
+  - first:
+      213: 3002020248953103014
+    second: scroll_and_others_12
+  - first:
+      213: -6379730221115320526
+    second: scroll_and_others_13
+  - first:
+      213: -1943206363105368950
+    second: scroll_and_others_14
+  - first:
+      213: -5742207173198739635
+    second: scroll_and_others_15
+  - first:
+      213: -6874557020536675084
+    second: scroll_and_others_16
+  - first:
+      213: -3126755992259662950
+    second: scroll_and_others_17
+  - first:
+      213: 815008194894334235
+    second: scroll_and_others_18
+  - first:
+      213: 412101793334696124
+    second: scroll_and_others_19
+  - first:
+      213: -9022622883715227665
+    second: scroll_and_others_20
+  - first:
+      213: -4497708228844526994
+    second: scroll_and_others_21
+  - first:
+      213: 4743291100204731636
+    second: scroll_and_others_22
+  - first:
+      213: -910373425746662752
+    second: scroll_and_others_23
+  - first:
+      213: 2790514967796975869
+    second: scroll_and_others_24
+  - first:
+      213: -5184945968693448557
+    second: scroll_and_others_25
+  - first:
+      213: -4055862606319445100
+    second: scroll_and_others_26
+  - first:
+      213: -2820630981266484413
+    second: scroll_and_others_27
+  - first:
+      213: -8294712957546489662
+    second: scroll_and_others_28
+  - first:
+      213: -1732911155381266921
+    second: scroll_and_others_29
+  - first:
+      213: 3610268877483096125
+    second: scroll_and_others_30
+  - first:
+      213: 894975397542575389
+    second: scroll_and_others_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scroll_and_others_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 203
+        width: 419
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602f22b6ad363eb4cb75ce458c195fbe
+      internalID: 4658878610652237141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 203
+        width: 47
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5d80ae01cf947488e610cc45dafb78
+      internalID: 641155322416885955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 204
+        width: 47
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946be70ffc927d64ab753ff4fc423df0
+      internalID: -7585276159536661269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 203
+        width: 47
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a12eef3662ee74593eccab22c0c2ad
+      internalID: 5264975437272128856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 159
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90f9373f120ec54db9d270819315742
+      internalID: -5764096943915304579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 159
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dd0bdfdb8ba954284083af0f542697
+      internalID: 5219273687999110718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 159
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77dd58dbe833a249bab9103aa0f77fd
+      internalID: -8362087257599285114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 159
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55913f2f6b256c84bb491578b9b9b393
+      internalID: 717632080543834137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 159
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1480faefa25e5c245bc9f0f6b829ea7c
+      internalID: -6067552407916192568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 160
+        width: 87
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8109d66c009da6e4983df2343b0abec5
+      internalID: 1156221073810866098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bf9f5ed50735848bf1c04a7dabe017
+      internalID: 7898789080582808422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 160
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfd7482fdf7e1b4092e48a4e3a8e3b8
+      internalID: -8495304991439857779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_12
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 154
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec0717abeef2f0458ed2717fc37b4df
+      internalID: 3002020248953103014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 157
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74da562ff33a8da4a9658eb58044df91
+      internalID: -6379730221115320526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 152
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d5db80303da284cb53fa4ff1ba0a0c
+      internalID: -1943206363105368950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_15
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 155
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d71391ab7d518f4ebf3ed0742b84d25
+      internalID: -5742207173198739635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_16
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 152
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e21d41f77dbe1a43abbe15e83436f8a
+      internalID: -6874557020536675084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 155
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7451b78fdfd9ed45b3c96eacbd7d213
+      internalID: -3126755992259662950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0248d8f66ad52de499fbed14b4dea33b
+      internalID: 815008194894334235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 101
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19d2d061cbaa5f42a74b78c76520490
+      internalID: 412101793334696124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_20
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 97
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e931c84f28d84934fa3151542b727cb0
+      internalID: -9022622883715227665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 92
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa654b54f6fc410488fdbd75392ba258
+      internalID: -4497708228844526994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_22
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 104
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6d271c695b6374da17beb78d2ef6ba
+      internalID: 4743291100204731636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_23
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 107
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cbaa9f1fab57b45bf64ee994216e5c
+      internalID: -910373425746662752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 102
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b7149fdd4c3d441a68cffec49a67fc
+      internalID: 2790514967796975869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_25
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 105
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955f91e7ec7fc984cb17e48b0344302e
+      internalID: -5184945968693448557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_26
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 102
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ed31caabddc1a4e8cf3910d4ff3103
+      internalID: -4055862606319445100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_27
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 105
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e24e036ad6cbf45b03418713391189
+      internalID: -2820630981266484413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 56
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba2dd59f3395924ab7b7ed6c84b7b8a
+      internalID: -8294712957546489662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 59
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5401b2fd1a8948a40ab626be2937ebaf
+      internalID: -1732911155381266921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 6
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445f42b652ea9c34a95fd8c0000f9486
+      internalID: 3610268877483096125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scroll_and_others_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 9
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff21fc209eb88f4099a1c4eb4455ee5
+      internalID: 894975397542575389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 94b8eaf804d5f63469a12a15a00045c6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
